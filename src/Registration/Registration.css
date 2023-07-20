@@ -1,0 +1,44 @@
+.main-wrapper{
+    
+
+}
+
+.wrapper{
+    width: 300px;
+    height: 250px;
+    background-color: pink;
+    border-radius: 10px;
+    padding: 25px;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;   
+}
+
+.log-pas-block{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+input{
+    height: 25px;
+    width: 180px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.headline{
+    text-align: center;
+   
+}
+
